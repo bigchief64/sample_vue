@@ -1,6 +1,6 @@
 # Nuxt Minimal Starter
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.  Currently, this is the Nuxt minimal starter application, but will be further developed to demonstrate proficiency with Vue development
+A minimal application that will be further developed to demonstrate proficiency with Vue development
 
 ## Setup
 
